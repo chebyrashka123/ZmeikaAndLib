@@ -1,6 +1,6 @@
 #include <curses.h>   // управление экраном (PDCurses)
-#include <stdlib.h>   // rand, srand
-#include <time.h>     // time
+#include <stdlib.h>   
+#include <time.h>     
 
 #define WIDTH 40
 #define HEIGHT 20
